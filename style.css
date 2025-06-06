@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    border:2px dotted blue;
+    padding:20px;
+    margin:80px;
+    background-color: aquamarine;
+}
+header{
+    margin:20px;
+}
+p{
+    color:powderblue;
+}
+nav{
+    margin:20px;
+    padding:20px;
+    background-color: aquamarine;
+    border-color: rgb(54, 54, 190);
+    border:2px dotted;
+}
